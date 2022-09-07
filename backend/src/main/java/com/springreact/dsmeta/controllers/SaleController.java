@@ -15,6 +15,7 @@ public class SaleController {
     @Autowired
     private SaleService saleService;
 
+    @Autowired
     private SmsService smsService;
 
     @GetMapping
