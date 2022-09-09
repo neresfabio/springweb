@@ -17,6 +17,7 @@ O FRONTEND está na [NETLIFY](https://www.netlify.com/).
 
 Link provisório do projeto: [https://dsmeta-fabioneres-fe7f5a.netlify.app/](https://dsmeta-fabioneres-fe7f5a.netlify.app/)
 
+![Layout](./images/front.png)
 
 
 
