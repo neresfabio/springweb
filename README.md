@@ -19,7 +19,9 @@ Link provisório do projeto: [https://dsmeta-fabioneres-fe7f5a.netlify.app/](htt
 
 ![Layout](./images/front.png)
 
-
+## DESCRIÇÂO
+O site lista todas as vendas feitas em um determinado periodo e o usuario pode notificar via SMS os dados dessa venda.
+Funcionalidade interessante para os momentos e que um gestor possa ter interesse de saber quem vendeu mais.
 
 ## PARTE 01
 > ### Objetivos
